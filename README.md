@@ -1,4 +1,4 @@
-# Todo-List
+# 📝 To-Do List Application
 A simple, interactive To-Do List built with HTML, CSS, and JavaScript. Users can add and delete tasks dynamically with a clean and responsive interface.
 
 ## 🚀 Features
@@ -15,4 +15,4 @@ A simple, interactive To-Do List built with HTML, CSS, and JavaScript. Users can
 ## 🛠️ How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Abhay1516/Todo-List.git>
